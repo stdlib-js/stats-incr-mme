@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute a moving mean error (ME) incrementally.",
   "license": "Apache-2.0",
   "author": {

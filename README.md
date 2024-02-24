@@ -63,7 +63,7 @@ For a window of size `W`, the [mean error][mean-absolute-error] is defined as
 ## Usage
 
 ```javascript
-import incrmme from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mme@deno/mod.js';
+import incrmme from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mme@v0.2.1-deno/mod.js';
 ```
 
 #### incrmme( window )
@@ -130,7 +130,7 @@ m = accumulator();
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import incrmme from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mme@deno/mod.js';
+import incrmme from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mme@v0.2.1-deno/mod.js';
 
 var accumulator;
 var v1;
